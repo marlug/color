@@ -732,3 +732,4 @@ func sprintln(a ...interface{}) string {
 	return strings.TrimSuffix(fmt.Sprintln(a...), "\n")
 }
 // test trigger
+// test trigger 2
