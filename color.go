@@ -731,3 +731,4 @@ func HiWhiteString(format string, a ...interface{}) string {
 func sprintln(a ...interface{}) string {
 	return strings.TrimSuffix(fmt.Sprintln(a...), "\n")
 }
+// test trigger
